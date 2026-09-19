@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "83c341687c2fb2bd50c1a394",
+  "owner": "bunoobu",
+  "repo": "page-e3392b8bfc437a5ed6c02a31",
+  "title": "免费订阅分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e3392b8bfc437a5ed6c02a31",
+      "a": "泡芙云",
+      "b": "免费订阅分享",
+      "entity": "泡芙云",
+      "brand": "免费订阅分享",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "08cf8972d63804518baf849d635c85d30e8d39ec773b11ba4c25a94aac9d03ba",
+      "content": {
+        "primary_entity": "泡芙云",
+        "keyword1": "泡芙云",
+        "keyword2": "免费订阅分享",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，Windows 用 Clash Verge，macOS 用 ClashX Pro，Android 用 Clash Meta，iOS 用 Shadowrocket。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "选好套餐下载客户端，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用泡芙云",
+          "AI_DESCRIPTION": "，泡芙云提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，设备数从 3 台到 20 台，支持流媒体解锁与专线优化，适合个人与团队按需选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三个角度匹配使用场景。",
+          "AI_FEATURES_TITLE": "选择适合的订阅方案",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量支持 3 台设备，适合日常浏览与轻度流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量支持 5 台设备，含 IPLC 专线与原生流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量支持 20 台设备，提供 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备匹配",
+          "AI_FEATURE_TITLE_2": "线路优化选择",
+          "AI_FEATURE_TITLE_3": "团队多设备方案",
+          "AI_GUIDE_INTRO": "从选套餐到导入订阅，三步开始使用泡芙云。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "泡芙云提供按月与按年订阅的加速服务，流量从 100GB 到 1000GB，覆盖个人到团队的多设备场景，搭配常见客户端导入订阅即可使用。",
+          "AI_HERO_SUBTITLE": "泡芙云订阅套餐选择",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "支持按年付节省费用",
+          "AI_HIGHLIGHT_3": "常见客户端订阅导入",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备，旗舰版 ¥35/月含 300GB 与 5 台设备及专线，团队版 ¥85/月含 1000GB 与 20 台设备；年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，在基础版、旗舰版与团队版之间选择。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认设备数量与线路类型满足使用需要。",
+          "AI_STEP_TEXT_3": "参照对应客户端的订阅配置文档，完成订阅链接导入与节点更新。",
+          "AI_STEP_TITLE_1": "选择服务方案",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "泡芙云订阅选择",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 适合单人轻量使用；旗舰版 300GB 并支持 5 台设备，适合家庭或高频用户；团队版 1000GB 与 20 台设备面向小型团队。",
+          "AI_FAQ_ANSWER_2": "在对应客户端中导入订阅链接即可，具体操作步骤请参考各客户端的配置文档，配置完成一般自动同步节点。",
+          "AI_FAQ_ANSWER_3": "各套餐支持的在线设备数不同：基础版 3 台，旗舰版 5 台，团队版 20 台。超出数量时，新设备可能无法连接。",
+          "AI_FAQ_ANSWER_4": "月付按各版本标价收取；按年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，相当于节省两个月费用。",
+          "AI_FAQ_ANSWER_5": "旗舰版和团队版提供不同优先级的工单支持；团队版配有专属客户经理协助处理路由与节点问题。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "如何根据流量和人数选择套餐？",
+          "AI_FAQ_QUESTION_2": "泡芙云订阅如何导入客户端？",
+          "AI_FAQ_QUESTION_3": "一个账号能同时连接几台设备？",
+          "AI_FAQ_QUESTION_4": "月付和年付的差别是什么？",
+          "AI_FAQ_QUESTION_5": "遇到节点延迟高或断流怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "2d67cce40e91fe86712c1711d91f560922f1d64486d45ed6689ed1070af21c79",
+    "sitemap.xml": "8e2281972e5a57e45985072d232346830fefe881bf666d38d1dfe38136823dce",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "8024a3a881f090856b86a2a4a97598bece06051fed9e5052698176d8682ba5cb"
+}
